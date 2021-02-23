@@ -18,4 +18,7 @@
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
 <fullyQualifiedTypeName name="com.xyz.HibernateMaven.Employee"/>
+<fullyQualifiedTypeName name="com.xyz.springdemo.Coach"/>
+<fullyQualifiedTypeName name="com.xyz.springdemo.BaseballCoach"/>
+<fullyQualifiedTypeName name="com.xyz.springdemo.TrackCoach"/>
 </qualifiedTypeNameHistroy>
