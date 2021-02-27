@@ -345,3 +345,12 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2021-02-26 06:50:54,349 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-02-26 06:50:54,395 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-02-26 06:50:54,398 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ConveyLabOnline\AdvanceJavaBatch5\SpringIntegratingWithHibernate\src\test\resources
+2021-02-27 06:20:27,378 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-02-27 06:21:54,489 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 06:21:54,490 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ConveyLabOnline\AdvanceJavaBatch5\HibernateMaven\src\main\resources
+2021-02-27 06:21:54,497 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-02-27 06:21:54,497 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ConveyLabOnline\AdvanceJavaBatch5\HibernateMaven\src\test\resources
+2021-02-27 06:22:03,415 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-27 06:22:03,432 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-02-27 06:22:03,494 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-02-27 06:22:03,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ConveyLabOnline\AdvanceJavaBatch5\SpringIntegratingWithHibernate\src\test\resources
